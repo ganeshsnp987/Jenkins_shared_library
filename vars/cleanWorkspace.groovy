@@ -1,4 +1,4 @@
 
 def call() {
-    cleanWorkspace()
+    cleanWs()
 }
